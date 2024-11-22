@@ -1,5 +1,0 @@
-# Ignorar todo por defecto
-*
-
-# Permitir únicamente los archivos .java en cualquier lugar
-!*.java
